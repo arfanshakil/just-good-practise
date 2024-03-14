@@ -1,12 +1,12 @@
 ok
 
-<<<<<<< HEAD
+
 
 three
 
 
 
 this is jakir ok
-=======
+
 three
->>>>>>> main
+
